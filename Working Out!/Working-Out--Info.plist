@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>UIAppFonts</key>
+	<array>
+		<string>TestFoundersGrotesk-Bold.otf</string>
+		<string>TestFoundersGrotesk-BoldItalic.otf</string>
+		<string>TestFoundersGrotesk-Light.otf</string>
+		<string>TestFoundersGrotesk-LightItalic.otf</string>
+		<string>TestFoundersGrotesk-Medium.otf</string>
+		<string>TestFoundersGrotesk-MediumItalic.otf</string>
+		<string>TestFoundersGrotesk-Regular.otf</string>
+		<string>TestFoundersGrotesk-RegularItalic.otf</string>
+		<string>TestFoundersGrotesk-Semibold.otf</string>
+		<string>TestFoundersGrotesk-SemiboldItalic.otf</string>
+	</array>
+	<key>UILaunchScreen</key>
+	<dict>
+		<key>UIColorName</key>
+		<string>Run</string>
+		<key>UIImageName</key>
+		<string>Runner</string>
+	</dict>
+</dict>
+</plist>
