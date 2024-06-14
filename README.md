@@ -5,4 +5,5 @@ Designed in Sketch and created in SwiftUI over the course of a three day sprint,
 
 *Working Out!* allows me to log my workouts, and uses an algorithm to decide what my next activity should be. It sends daily local notifications informing me of the day's activity, as well as reminder notification to log the workout if I haven't already. It's simple and pleasant to use, providing all the functionality needed to allow me to maintain a good schedule.
 
-![Screenshot of Working Out!](/Images/WorkingOutScreenshot2x.png)
+
+<img src="/Images/WorkingOutScreenshot2x.png" width="400">
